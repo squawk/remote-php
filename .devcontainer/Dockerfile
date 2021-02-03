@@ -1,5 +1,5 @@
 # See here for image contents: https://github.com/microsoft/vscode-dev-containers/tree/v0.134.0/containers/php/.devcontainer/base.Dockerfile
-ARG VARIANT="7"
+ARG VARIANT="8"
 FROM mcr.microsoft.com/vscode/devcontainers/php:0-${VARIANT}
 
 # [Optional] Install a version of Node.js using nvm for front end dev
